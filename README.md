@@ -1,4 +1,9 @@
-# Ordinal Number
-Ordinal number example.
+# Example
+Moonsteer example.
+
+## Install
+```
+npm i @moonsteer/example
+```
 
 Created by [GitOps](https://gitops.sh)
