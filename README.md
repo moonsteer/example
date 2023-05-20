@@ -1,4 +1,4 @@
-# Ordinal Number
-Ordinal number example.
+# Example
+Moonsteer example.
 
 Created by [GitOps](https://gitops.sh)
